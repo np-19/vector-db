@@ -16,4 +16,5 @@
 .vscode/
 .env
 /docs/
+*.md
 .gitignore
