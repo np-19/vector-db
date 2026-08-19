@@ -1,0 +1,17 @@
+# Generated CMake output and local dependencies
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+/cmake_install.cmake
+/_deps/
+
+# Binaries and IDE files
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+.vs/
+.vscode/
+.env

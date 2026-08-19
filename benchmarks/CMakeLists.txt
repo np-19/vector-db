@@ -1,0 +1,2 @@
+add_executable(foundation_bench foundation_bench.cpp)
+target_link_libraries(foundation_bench PRIVATE benchmark::benchmark MiniVectorDB::minivectordb)
