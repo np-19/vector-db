@@ -15,5 +15,5 @@
 .vs/
 .vscode/
 .env
-docs/
+/docs/
 .gitignore
