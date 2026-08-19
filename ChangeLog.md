@@ -5,7 +5,12 @@ All notable changes to this project will be documented in this file.
 ## [2026-08-20] - Ignore Markdown Documentation
 
 ### Modified
-- [MODIFY] [`.gitignore`](.gitignore): Ignore the `docs/` directory and all Markdown files with the `*.md` pattern.
+
+## [2026-08-20] - Untrack Documentation Folder
+
+### Modified
+- [MODIFY] [`.gitignore`](.gitignore): Keep the local `docs/` directory and Markdown files excluded from future Git tracking.
+- [REMOVE FROM INDEX] `docs/`: Removed the documentation folder from Git tracking without deleting local files.
 
 ## [2026-08-20] - MinGW Debug Build Compatibility
 
